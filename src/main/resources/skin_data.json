@@ -1,0 +1,18 @@
+[
+  {
+    "_class": "skinsAPI.domain.entities.Skin",
+    "id": 1,
+    "name": "skin1",
+    "type": "rare",
+    "price": 50,
+    "color": "red"
+  },
+  {
+    "_class": "skinsAPI.domain.entities.Skin",
+    "id": 2,
+    "name": "skin2",
+    "type": "ultrarare",
+    "price": 200,
+    "color": "blue"
+  }
+]
